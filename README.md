@@ -1,5 +1,4 @@
-
-Creating a README file for a WeatherApp written in Java is a great way to provide instructions and information for users and developers. Here's a template you can use:
+ Here's a template you can use:
 
 WeatherApp
 WeatherApp is a Java application that retrieves weather information based on user input.
